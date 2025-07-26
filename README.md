@@ -38,7 +38,7 @@ cd react-todo-app
 npm install
 ```
 
-###3. Start the Development Server
+### 3. Start the Development Server
 
 ```
 npm run dev
@@ -47,7 +47,7 @@ Open your browser and go to your local host
 
 ---
 
-##📁 Project Structure
+## 📁 Project Structure
 
 src/ (it must contain)
 ├── App.jsx
