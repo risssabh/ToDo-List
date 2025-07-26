@@ -27,7 +27,7 @@ This app allows you to add, edit, delete, and mark tasks as completed.
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/YOUR_USERNAME/react-todo-app.git
 cd react-todo-app
 
